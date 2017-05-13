@@ -1,0 +1,1 @@
+<html>\r\n<font color="#00ff00">\r\n<h3>Important</h3>\r\n</font>\r\n<body>\r\n<p>This email has been sent to you under an important notice, it is currently adviced to respond to this email as soon as possible</p>\r\n</body>\r\n</html>
